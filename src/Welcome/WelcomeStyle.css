@@ -1,0 +1,151 @@
+.button {
+    width: 115px;
+    margin: 9px 15px 0px 4px;
+}
+
+
+
+
+.navBar {
+    padding: 2.5px;
+    display: grid;
+    grid-template-columns: 15rem 55rem 17.5rem;
+}
+
+.navBar img {
+    margin: 8px 2.5px 7px 10px;
+}
+
+.navBar .list {
+    display: inline;
+    margin: 15px 15px 15px 15px;
+}
+
+.navBar .list p {
+    padding: 10px;
+    font-size: medium;
+    display: inline;
+    text-align: center;
+    color: #18A0FB;
+}
+
+.navBar span button {
+    display: inline-block;
+}
+
+
+
+
+.photo {
+    /* background-image: url(http://coop-land.ru/uploads/posts/2017-03/1488788248_obzor_010317_sayt_malenkaya-360x240.jpg); */
+    background-color: rgb(231, 231, 231);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 960px;
+    display: flex;
+
+}
+
+.photo div {
+    margin: auto;
+}
+
+.photo div .button {
+    width: 100px;
+}
+
+.photo button {
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em;
+}
+
+
+
+
+.snapPhotos {
+  padding: 25px;
+}
+
+.snapPhotos h1 {
+   font-size: xx-large;
+   width: 400px;
+}
+
+.snapPhotos .text {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  grid-template-rows: 15rem 15rem 5rem;
+}
+
+.snapPhotos h2 {
+    font-weight: 750;
+}
+
+
+
+
+.support .img {
+    display: grid;
+    margin: auto 12.5rem;
+    grid-template-columns: 17.5rem 17.5rem 17.5rem 17.5rem;
+    grid-template-rows: 10rem 10rem;
+}
+
+.support h1 {
+    text-align: center;
+    font-size: xxx-large;
+}
+
+.support h3 {
+    text-align: center;
+    font-size: x-large;
+}
+
+
+
+
+.join {
+    background-color: rgb(236, 236, 236);
+    padding: 25px;
+    display: grid;
+    grid-template-columns: 30rem 57rem;
+}
+
+.join .p {
+   text-align: left;
+   font-size: x-large;
+   margin: 25px;
+}
+
+.join .joinButton {
+    padding-left: 60%;
+    padding-top: 4%;
+}
+
+
+
+
+.footer .second {
+    display: grid;
+    margin-left: 27.5%;
+    grid-template-columns: 10rem 10rem 10rem 10rem;
+}
+
+.footer .first {
+    margin-left: auto;
+    margin-right: auto;
+    width: 15em;
+}
+
+.footer .second img {
+    width: 75%;
+    border-radius: 100%;
+}
+
+.footer h6 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 25em;
+}

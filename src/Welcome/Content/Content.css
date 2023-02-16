@@ -1,0 +1,25 @@
+.contentFirst {
+    display: grid;
+    grid-template-columns: 50rem 30rem;
+    padding: 2%;
+}
+
+.contentFirst .txt {
+    padding-top: 100px;
+}
+
+
+
+
+
+.contentSecond {
+    display: grid;
+    grid-template-columns: 40rem 30rem;
+    padding: 3%;
+    margin: 100px 0px 100px 0px;
+}
+
+.contentSecond img {
+    margin-left: 150px;
+    margin-top: -175px;
+}
